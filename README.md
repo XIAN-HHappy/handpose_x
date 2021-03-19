@@ -1,7 +1,7 @@
 # HandPose X  
 手势 21 个关键点检测  ， handpose
 
-## 项目一首发布地址  
+## 项目 - 首发布地址  
 ### https://codechina.csdn.net/EricLee/handpose_x  
 ## 项目Wiki
 ### 注意：项目的相关资料信息或是更新状态会同步到项目Wiki，以便更好的对该项目进行维护和不断发展，谢谢大家对该项目的关注！
