@@ -5,7 +5,14 @@
 
 import numpy as np
 import cv2
+def img_agu_channel_same(img_):
+    img_a = np.zeros(img_.shape, dtype = np.uint8)
+    gray = cv2.cvtColor(img_,cv2.COLOR_RGB2GRAY)
+    img_a[:,:,0] =gray
+    img_a[:,:,1] =gray
+    img_a[:,:,2] =gray
 
+    return img_a
 #-------------------------------------------------------------------------------
 # eye_left_n,eye_right_n:为扰动后的参考点坐标
 

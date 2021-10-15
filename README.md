@@ -1,5 +1,8 @@
 # HandPose X  
 手势 21 个关键点检测  ， handpose
+## 重要更新
+### 添加 onnx 模块，预训练模型中有转好的resnet50-onnx模型，注意：目前不支持rexnetv1
+### "dpcas" 项目地址：https://codechina.csdn.net/EricLee/dpcas
 
 ## 项目 - 首发布地址  
 ### https://codechina.csdn.net/EricLee/handpose_x  
@@ -101,6 +104,9 @@
 ### 模型推理  
 * 根目录下运行命令： python inference.py        (注意脚本内相关参数配置 )   
 
+### onnx使用  
+* step1: 设定相关配置包括模型类型和模型参数路径，根目录下运行命令： python model2onnx.py        (注意脚本内相关参数配置 )
+* step2: 设定onnx模型路径，根目录下运行命令： python onnx_inference.py   (注意脚本内相关参数配置 )
 * 建议    
 ```
 
