@@ -1,7 +1,9 @@
 # HandPose X  
 手势 21 个关键点检测  ， handpose
 ## 重要更新
-### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：https://gitcode.net/EricLee/onnx_run
+### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：
+* https://gitcode.net/EricLee/onnx_run  
+* https://github.com/EricLee2021-72324/onnx_run
 ### 添加 onnx 模块，预训练模型中有转好的resnet50-onnx模型，注意：目前不支持rexnetv1
 ### "dpcas" 项目地址：https://codechina.csdn.net/EricLee/dpcas
 
