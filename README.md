@@ -137,7 +137,3 @@
 
 ## 联系方式 （Contact）  
 * E-mails: 305141918@qq.com   
-
-## 特别感谢
-* 特别感谢神力社群的朋友对 " HandPose X " 项目进行二次开发，推进了该算法模型能够在实际应用中加速落地。  
-* http://manaai.cn/aicodes_detail3.html?id=75
