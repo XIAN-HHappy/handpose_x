@@ -4,15 +4,12 @@
 ### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：
 * https://github.com/XIAN-HHappy/onnx_run
 ### 添加 onnx 模块，预训练模型中有转好的resnet50-onnx模型，注意：目前不支持rexnetv1
-### "dpcas" 项目地址：https://codechina.csdn.net/EricLee/dpcas
 
-## 项目 - 首发布地址  
-### https://codechina.csdn.net/EricLee/handpose_x  
 ## 项目Wiki
 ### 注意：项目的相关资料信息或是更新状态会同步到项目Wiki，以便更好的对该项目进行维护和不断发展，谢谢大家对该项目的关注！
 
 ## 项目介绍   
-注意：该项目不包括手部检测部分，手部检测项目地址：https://codechina.csdn.net/EricLee/yolo_v3   
+注意：该项目不包括手部检测部分.
 该项目是对手的21个关键点进行检测，示例如下 ：    
 * 图片示例：  
 ![image](https://github.com/XIAN-HHappy/handpose_x/raw/main/samples/test.png)    
