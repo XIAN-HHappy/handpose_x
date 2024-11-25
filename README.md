@@ -1,9 +1,9 @@
 # HandPose X  
 手势 21 个关键点检测  ， handpose
 ## 定期分享最新AIGC消息 & 项目情况
-![image](./image/wx2.png)    
+![image](./image/wx3.png)    
 ## 如需更多的项目资源和落地方案，可以加入 “DataBall - X ”知识星球
-![image](./image/zsxq.png)  
+![image](./image/zsxq2.png)  
 ## 重要更新
 ### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：
 * https://github.com/XIAN-HHappy/onnx_run
