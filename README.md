@@ -2,7 +2,9 @@
 手势 21 个关键点检测  ， handpose
 
 ## 如需更多的项目资源和落地方案，可以加入 “DataBall - X ”知识星球 free
-![image](./image/zsxq.jpg)  
+
+<img src="./image/zsxq.jpg" width="50%" alt="知识星球">
+
 ## 重要更新
 ### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：
 * https://github.com/XIAN-HHappy/onnx_run
