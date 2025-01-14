@@ -5,6 +5,10 @@
 
 <img src="./image/zsxq.jpg" width="50%" alt="知识星球">
 
+## handposex plus 数据集
+* 加入知识星球，获取下载链接
+<img src="samples/demo.gif" width="100%" alt="handposex plus">
+
 ## 重要更新
 ### 添加 onnx runtime C++ 项目示例支持CPU&GPU，对应项目地址：
 * https://github.com/XIAN-HHappy/onnx_run
