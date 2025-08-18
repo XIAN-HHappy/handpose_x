@@ -3,7 +3,7 @@
 
 ## 如需更多的项目资源和落地方案，可以加入 “DataBall - X ”知识星球 free
 
-<img src="./image/zsxq.jpg" width="50%" alt="知识星球">
+<img src="./image/zsxq.jpg" width="30%" alt="知识星球">
 
 ## handposex plus 数据集
 * 加入知识星球，获取下载链接
@@ -18,6 +18,11 @@
 ### 注意：项目的相关资料信息或是更新状态会同步到项目Wiki，以便更好的对该项目进行维护和不断发展，谢谢大家对该项目的关注！
 
 ## 项目介绍   
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XIAN-HHappy/handpose_x&type=Date)](https://www.star-history.com/#XIAN-HHappy/handpose_x&Date)
+
 注意：该项目不包括手部检测部分.
 该项目是对手的21个关键点进行检测，示例如下 ：    
 * 图片示例：  
