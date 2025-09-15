@@ -1,6 +1,9 @@
 # HandPose X  
 手势 21 个关键点检测  ， handpose
 
+## 课程通知 
+* 手势交互课程 handpose_x ![ccv](https://github.com/XIAN-HHappy/handpose_x/wiki)
+
 ## 如需更多的项目资源和落地方案，可以加入 “DataBall - X ”知识星球 free
 
 <img src="./image/zsxq.jpg" width="30%" alt="知识星球">
