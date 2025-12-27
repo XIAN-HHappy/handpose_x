@@ -8,7 +8,8 @@
 
 <img src="./image/zsxq.jpg" width="30%" alt="知识星球">
 
-* 灵巧手
+## 灵巧手
+
 ![video_lqs1](https://github.com/XIAN-HHappy/handpose_x/blob/main/samples/handpose_x__lqs-20251228.gif)    
 
 ## handposex plus 数据集
