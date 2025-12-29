@@ -10,7 +10,7 @@
 
 ## 灵巧手
 
-![video_lqs1](https://github.com/XIAN-HHappy/handpose_x/blob/main/samples/handpose_x__lqs-20251228.gif)    
+![video_lqs1](./samples/handpose_x__lqs-20251228.gif)    
 
 ## handposex plus 数据集
 * 加入知识星球，获取下载链接
