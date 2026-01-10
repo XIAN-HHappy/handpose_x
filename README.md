@@ -8,6 +8,12 @@
 
 <img src="./image/zsxq.jpg" width="30%" alt="知识星球">
 
+## Pinch_Index （交互选择射线）
+
+![video_pinch_line](./samples/pinch_line-20260110.gif)   
+
+
+
 ## 灵巧手
 
 ![video_lqs1](./samples/handpose_x__lqs-20251228.gif)    
